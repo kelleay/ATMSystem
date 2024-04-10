@@ -1,0 +1,17 @@
+Wed Apr 10 17:17:10 CST 2024 ---- 客户端已连接
+Wed Apr 10 17:17:13 CST 2024 ---- a
+Wed Apr 10 17:17:13 CST 2024 ---- 401 error
+
+Wed Apr 10 17:17:36 CST 2024 ---- HELO 2022348
+Wed Apr 10 17:17:36 CST 2024 ---- 401 error
+
+Wed Apr 10 17:17:49 CST 2024 ---- HELO 2022134820221353
+Wed Apr 10 17:17:49 CST 2024 ---- 500 AUTH REQUIRE
+
+Wed Apr 10 17:17:55 CST 2024 ---- PASS 123456
+Wed Apr 10 17:17:55 CST 2024 ---- 525 OK!
+
+Wed Apr 10 17:18:06 CST 2024 ---- BYE
+Wed Apr 10 17:18:06 CST 2024 ---- BYE
+
+Wed Apr 10 17:18:06 CST 2024 ---- 服务器关闭
