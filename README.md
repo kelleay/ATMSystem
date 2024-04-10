@@ -10,3 +10,4 @@
 连接的服务器的IP和Port需要在getConnectionListener.java手动修改一下
 
 上传的日志文件放在log.txt中
+但是读取文件用的绝对路径(相对路径一直报错)
