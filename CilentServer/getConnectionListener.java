@@ -27,7 +27,7 @@ public class getConnectionListener implements ActionListener {
             return;
         }
 
-        if (ip.equals("192.168.0.178") && port == 6789) {
+        if (ip.equals("192.168.0.178") && port == 2525) {
             // 输入正确 等待连接进入ATM交互界面
             this.currFrame.dispose(); //关闭initFrame;
             try {
