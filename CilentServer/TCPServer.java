@@ -40,7 +40,7 @@ public class TCPServer {
 
 
         while(true) {
-            ServerSocket welcomeSocket = new ServerSocket(6789);
+            ServerSocket welcomeSocket = new ServerSocket(2525);
             connectionSocket = welcomeSocket.accept(); //等待客户端连接
             System.out.println("客户端已连接");
             writeToLog("客户端已连接\n");
